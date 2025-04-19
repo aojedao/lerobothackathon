@@ -1,0 +1,2 @@
+# lerobothackathon
+Hackathon for LeRobot
